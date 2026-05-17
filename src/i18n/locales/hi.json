@@ -1,0 +1,113 @@
+{
+  "app": { "name": "इनर आई VMS", "tagline": "विक्रेता प्रबंधन प्रणाली" },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "vendors": "विक्रेता",
+    "users": "उपयोगकर्ता",
+    "reports": "रिपोर्ट",
+    "settings": "सेटिंग्स",
+    "logout": "लॉगआउट"
+  },
+  "auth": {
+    "login": "साइन इन",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "resetPassword": "पासवर्ड रीसेट करें",
+    "newPassword": "नया पासवर्ड",
+    "confirmPassword": "पासवर्ड पुष्टि करें",
+    "sendResetLink": "रीसेट लिंक भेजें",
+    "backToLogin": "साइन इन पर वापस जाएं",
+    "welcome": "वापस आपका स्वागत है",
+    "subtitle": "विक्रेताओं और अनुमोदन प्रबंधित करने के लिए साइन इन करें"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "totalVendors": "कुल विक्रेता",
+    "pendingApproval": "अनुमोदन लंबित",
+    "approved": "अनुमोदित",
+    "active": "सक्रिय विक्रेता"
+  },
+  "vendor": {
+    "title": "विक्रेता",
+    "register": "विक्रेता पंजीकरण",
+    "details": "विक्रेता विवरण",
+    "search": "विक्रेता खोजें...",
+    "form": {
+      "basicInfo": "मूल जानकारी",
+      "businessInfo": "व्यापार विवरण",
+      "taxInfo": "कर जानकारी",
+      "bankInfo": "बैंक विवरण",
+      "vendorName": "विक्रेता का नाम",
+      "vendorType": "विक्रेता प्रकार",
+      "companyName": "कंपनी का नाम",
+      "contactPerson": "संपर्क व्यक्ति",
+      "email": "ईमेल",
+      "mobile": "मोबाइल नंबर",
+      "address": "पता",
+      "city": "शहर",
+      "state": "राज्य",
+      "pinCode": "पिन कोड",
+      "gstNumber": "GST नंबर",
+      "panNumber": "PAN नंबर",
+      "bankName": "बैंक का नाम",
+      "branchName": "शाखा का नाम",
+      "accountNumber": "खाता संख्या",
+      "confirmAccount": "खाता संख्या पुष्टि",
+      "ifscCode": "IFSC कोड",
+      "submit": "विक्रेता पंजीकृत करें"
+    },
+    "documents": {
+      "title": "दस्तावेज़",
+      "upload": "दस्तावेज़ अपलोड करें",
+      "gstCertificate": "GST प्रमाणपत्र",
+      "panCard": "PAN कार्ड",
+      "maxSize": "अधिकतम 5MB (PDF, JPG, PNG)"
+    },
+    "approval": {
+      "title": "अनुमोदन इतिहास",
+      "approve": "अनुमोदित करें",
+      "reject": "अस्वीकार करें",
+      "sendBack": "वापस भेजें",
+      "remarks": "टिप्पणी",
+      "activate": "विक्रेता सक्रिय करें"
+    },
+    "status": {
+      "SUBMITTED": "प्रस्तुत",
+      "UNDER_REVIEW": "समीक्षाधीन",
+      "FINANCE_VERIFICATION": "वित्त सत्यापन",
+      "APPROVED": "अनुमोदित",
+      "REJECTED": "अस्वीकृत",
+      "ACTIVE": "सक्रिय"
+    }
+  },
+  "user": {
+    "title": "उपयोगकर्ता",
+    "create": "उपयोगकर्ता बनाएं",
+    "edit": "उपयोगकर्ता संपादित करें",
+    "firstName": "पहला नाम",
+    "lastName": "उपनाम",
+    "email": "ईमेल",
+    "mobile": "मोबाइल",
+    "role": "भूमिका",
+    "userType": "उपयोगकर्ता प्रकार"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "loading": "लोड हो रहा है...",
+    "noData": "कोई डेटा नहीं मिला",
+    "confirm": "पुष्टि करें",
+    "actions": "कार्रवाई",
+    "status": "स्थिति",
+    "createdAt": "बनाया गया",
+    "showing": "दिखा रहा",
+    "of": "का",
+    "results": "परिणाम",
+    "previous": "पिछला",
+    "next": "अगला"
+  }
+}

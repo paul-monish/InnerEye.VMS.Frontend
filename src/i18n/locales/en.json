@@ -1,0 +1,113 @@
+{
+  "app": { "name": "Inner Eye VMS", "tagline": "Vendor Management System" },
+  "nav": {
+    "dashboard": "Dashboard",
+    "vendors": "Vendors",
+    "users": "Users",
+    "reports": "Reports",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Sign In",
+    "email": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Sign In",
+    "welcome": "Welcome back",
+    "subtitle": "Sign in to manage vendors and approvals"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalVendors": "Total Vendors",
+    "pendingApproval": "Pending Approval",
+    "approved": "Approved",
+    "active": "Active Vendors"
+  },
+  "vendor": {
+    "title": "Vendors",
+    "register": "Register Vendor",
+    "details": "Vendor Details",
+    "search": "Search vendors...",
+    "form": {
+      "basicInfo": "Basic Information",
+      "businessInfo": "Business Details",
+      "taxInfo": "Tax Information",
+      "bankInfo": "Bank Details",
+      "vendorName": "Vendor Name",
+      "vendorType": "Vendor Type",
+      "companyName": "Company Name",
+      "contactPerson": "Contact Person",
+      "email": "Email",
+      "mobile": "Mobile Number",
+      "address": "Address",
+      "city": "City",
+      "state": "State",
+      "pinCode": "Pin Code",
+      "gstNumber": "GST Number",
+      "panNumber": "PAN Number",
+      "bankName": "Bank Name",
+      "branchName": "Branch Name",
+      "accountNumber": "Account Number",
+      "confirmAccount": "Confirm Account Number",
+      "ifscCode": "IFSC Code",
+      "submit": "Register Vendor"
+    },
+    "documents": {
+      "title": "Documents",
+      "upload": "Upload Document",
+      "gstCertificate": "GST Certificate",
+      "panCard": "PAN Card",
+      "maxSize": "Max 5MB (PDF, JPG, PNG)"
+    },
+    "approval": {
+      "title": "Approval History",
+      "approve": "Approve",
+      "reject": "Reject",
+      "sendBack": "Send Back",
+      "remarks": "Remarks",
+      "activate": "Activate Vendor"
+    },
+    "status": {
+      "SUBMITTED": "Submitted",
+      "UNDER_REVIEW": "Under Review",
+      "FINANCE_VERIFICATION": "Finance Verification",
+      "APPROVED": "Approved",
+      "REJECTED": "Rejected",
+      "ACTIVE": "Active"
+    }
+  },
+  "user": {
+    "title": "Users",
+    "create": "Create User",
+    "edit": "Edit User",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "mobile": "Mobile",
+    "role": "Role",
+    "userType": "User Type"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "loading": "Loading...",
+    "noData": "No data found",
+    "confirm": "Confirm",
+    "actions": "Actions",
+    "status": "Status",
+    "createdAt": "Created",
+    "showing": "Showing",
+    "of": "of",
+    "results": "results",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}
